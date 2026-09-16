@@ -27,5 +27,3 @@ pytest -q
 ```bash
 cd frontend && npm install && npm run dev
 ```
-
-This repository uses synthetic machine/operator identifiers and does not claim deployment at a specific factory.
